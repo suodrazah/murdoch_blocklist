@@ -255,3 +255,12 @@
 0.0.0.0 www.btn.com
 0.0.0.0 www.btn2go.com
 0.0.0.0 www.newscorp.com
+0.0.0.0 www.bentoboxent.com
+0.0.0.0 www.foxnewsinsider.com
+0.0.0.0 www.foxsearchlight.com
+0.0.0.0 www.foxsportsradio.com
+0.0.0.0 www.foxsportsradio.iheart.com
+0.0.0.0 www.foxstudios.com
+0.0.0.0 www.golfchannel.com
+0.0.0.0 www.thesundaytimes.co.uk
+0.0.0.0 www.zondervan.com
