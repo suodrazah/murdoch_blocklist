@@ -4,7 +4,7 @@
 
 This is simply a list created for my personal use in blocking Murdoch assets at a DNS level. Feel free to make use of it as you see fit.
 
-Specifically created for Pi-hole compatibility.
+Specifically created for https://pi-hole.net/ compatibility.
 
 Manually and irregularly updated by myself.
 
