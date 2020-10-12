@@ -264,6 +264,7 @@
 0.0.0.0 m.golfchannel.com
 0.0.0.0 m.thesundaytimes.co.uk
 0.0.0.0 m.zondervan.com
+0.0.0.0 m.nypost.com
 0.0.0.0 www.news.co.uk
 0.0.0.0 www.thesun.co.uk
 0.0.0.0 www.thetimes.co.uk
@@ -530,3 +531,4 @@
 0.0.0.0 www.golfchannel.com
 0.0.0.0 www.thesundaytimes.co.uk
 0.0.0.0 www.zondervan.com
+0.0.0.0 www.nypost.com
