@@ -265,6 +265,9 @@
 0.0.0.0 m.thesundaytimes.co.uk
 0.0.0.0 m.zondervan.com
 0.0.0.0 m.nypost.com
+0.0.0.0 m.novafm.com.au
+0.0.0.0 m.smooth.com.au
+0.0.0.0 m.fiveaa.com.au
 0.0.0.0 www.news.co.uk
 0.0.0.0 www.thesun.co.uk
 0.0.0.0 www.thetimes.co.uk
@@ -532,3 +535,6 @@
 0.0.0.0 www.thesundaytimes.co.uk
 0.0.0.0 www.zondervan.com
 0.0.0.0 www.nypost.com
+0.0.0.0 www.novafm.com.au
+0.0.0.0 www.smooth.com.au
+0.0.0.0 www.fiveaa.com.au
