@@ -6,17 +6,19 @@ This is simply a list created for my personal use in blocking Murdoch assets at 
 
 Specifically created for https://pi-hole.net/ compatibility.
 
-Manually and irregularly updated by myself.
+Feel free to provide any updates or corrections via PR.
 
-Feel free to provide suggestions, or anything that I may have missed. I'll vet this information and then commit it.
+
 
 ***
 
 Add the list directly to Pi-hole with this URL
 
-> https://raw.githubusercontent.com/suodrazah/murdoch_blocklist/master/murdoch_blocklist.txt
+> https://raw.githubusercontent.com/andyrb412/murdoch_blocklist/master/murdoch_blocklist.txt
 
 ***
+
+This list builds upon that created by suodrazah.
 
 Original list source courtesy emilyapocalypse at ourhumanperspective
 
