@@ -506,6 +506,7 @@
 0.0.0.0 thinkofliving.com
 0.0.0.0 tibus.com
 0.0.0.0 timescurrencyservices.co.uk
+0.0.0.0 tmz.com
 0.0.0.0 topproducer.com
 0.0.0.0 totalaccessradio.co.uk
 0.0.0.0 towerfm.co.uk
@@ -533,6 +534,7 @@
 0.0.0.0 wogx.com
 0.0.0.0 wsfm.com.au
 0.0.0.0 wsj.com
+0.0.0.0 zondervan.com
 0.0.0.0 www.1form.com
 0.0.0.0 www.4kq.com.au
 0.0.0.0 www.96fm.com.au
@@ -785,6 +787,7 @@
 0.0.0.0 www.thinkofliving.com
 0.0.0.0 www.tibus.com
 0.0.0.0 www.timescurrencyservices.co.uk
+0.0.0.0 www.tmz.com
 0.0.0.0 www.topproducer.com
 0.0.0.0 www.totalaccessradio.co.uk
 0.0.0.0 www.towerfm.co.uk
@@ -813,4 +816,3 @@
 0.0.0.0 www.wsfm.com.au
 0.0.0.0 www.wsj.com
 0.0.0.0 www.zondervan.com
-0.0.0.0 zondervan.com
