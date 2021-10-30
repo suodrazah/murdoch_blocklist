@@ -490,6 +490,7 @@
 0.0.0.0 talksport.com
 0.0.0.0 taste.com.au
 0.0.0.0 techly.com.au
+0.0.0.0 the-sun.com
 0.0.0.0 the-tls.co.uk
 0.0.0.0 theaustralian.com.au
 0.0.0.0 theaustralian.digitaleditions.com.au
@@ -771,6 +772,7 @@
 0.0.0.0 www.talksport.com
 0.0.0.0 www.taste.com.au
 0.0.0.0 www.techly.com.au
+0.0.0.0 www.the-sun.com
 0.0.0.0 www.the-tls.co.uk
 0.0.0.0 www.theaustralian.com.au
 0.0.0.0 www.theaustralian.digitaleditions.com.au
